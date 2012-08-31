@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang=eu>
+<head>
+<meta charset=utf-8> 
+<title>A.B. Garbiketak</title>
+<meta name="Description" content="AB Garbiketak company web site">
+<meta name="Keywords" content="Garbiketak, Limpieza, portalak, portales, locales comerciales, local komertzialak, garajes, garajeak">
+<meta name="author" content="Asier Azkuenaga Batiz">
+<style type="text/css">
+body {margin:0px;padding:0px;text-align:center;font:9pt/180% verdana,sans-serif;}
+h1 {font-size:110%;font-weight:bold;margin:0.5em 0;letter-spacing:5px;}
+h2 {font-size:180%;font-weight:normal;letter-spacing:1px;}
+h3 {font-size:120%;letter-spacing:2px;font-weight:normal;margin:10px;}
+h1, h2, h3 {font-family:"lucida console","courier new",verdana,sans-serif;font-variant:small-caps;}
+a:link,a:visited {text-decoration:none;font-weight:normal;}
+a:hover,a:active {text-decoration:underline;}
+
+/* Alter the top block size here */
+#top {height:111px; padding:0px;margin:0px;text-align:left;}
+#top div{float:left;}
+#name_logo{margin:20px 0 0 30px;}
+#topsq {height:111px; width:200px;position:relative;top:0px;left:0px;} 
+
+#menu {padding:2px;color:#597f59;}
+#menu a{font-size:110%;font-weight:500;text-decoration:none;margin: 0px 10px;padding:3px;}
+#menu a:hover{text-decoration:none;}
+#main {position:absolute;left:250px;top:218px;width:520px;text-align:justify;padding-bottom:40px;}
+#text {clear:left;margin: 20px 70px 30px 130px;text-align:left;}    /* content area */
+
+/*  Change colors here */
+body   {background:#faebd7;color:#200;}
+#top   {float:left;height:115px;width:100%;}
+#topsq {background:#c1522b;}
+#menu  {background:#433;}
+#menu a {color:#eed;}
+#menu a:hover {color:#fff;background:#655;}
+h1 {font-size:200%;color2:#000;}
+h2 {color:#597f59;margin:0.4em 0;}
+h3 {color:#b0825f;}
+a:link,a:visited {color:#c1522b;}
+
+</style>
+</head>
+<body>
+  <div id="top">
+    <div><img src="garbiketa_logo.png" alt="AB Garbiketak logo image" /></div>
+    <div>
+      <img src="name.png" alt="AB Garbiketak logo text" id="name_logo"/>
+    </div>
+    
+  </div>
+
+  <div id="text">
+    <!-- begin main text -->
+    :-)main-copy
+    
+    <!-- end main text -->
+    
+  </div>
+  </body>
+</html>
